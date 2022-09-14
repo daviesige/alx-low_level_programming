@@ -13,6 +13,3 @@ return (n);
 }
 return (-n);
 }
-Footer
-© 2022 GitHub, Inc.
-
