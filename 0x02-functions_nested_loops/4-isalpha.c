@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*_isalpha- Return 1 if c is a letter. lowercase or uppercase
+*Description - Return 1 if c is uppercase or lowercase letter
 
 *@c: the int to print
 *Return: Always 0
